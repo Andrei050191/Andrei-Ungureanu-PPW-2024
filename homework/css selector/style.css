@@ -1,0 +1,12 @@
+div{
+    background-color: lightcoral;
+}
+.block-element{
+    background-color: blue;
+}
+#special-block-element{
+    background-color: lightblue;
+}
+span{
+    background-color: brown;
+}
